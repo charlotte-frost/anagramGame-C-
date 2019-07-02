@@ -1,0 +1,7 @@
+C:\Users\Charlotte\Desktop\C#\AnagramGame\AnagramGame\bin\Debug\AnagramGame.exe.config
+C:\Users\Charlotte\Desktop\C#\AnagramGame\AnagramGame\bin\Debug\AnagramGame.exe
+C:\Users\Charlotte\Desktop\C#\AnagramGame\AnagramGame\bin\Debug\AnagramGame.pdb
+C:\Users\Charlotte\Desktop\C#\AnagramGame\AnagramGame\obj\Debug\AnagramGame.csprojAssemblyReference.cache
+C:\Users\Charlotte\Desktop\C#\AnagramGame\AnagramGame\obj\Debug\AnagramGame.csproj.CoreCompileInputs.cache
+C:\Users\Charlotte\Desktop\C#\AnagramGame\AnagramGame\obj\Debug\AnagramGame.exe
+C:\Users\Charlotte\Desktop\C#\AnagramGame\AnagramGame\obj\Debug\AnagramGame.pdb
